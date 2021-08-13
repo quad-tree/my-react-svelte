@@ -3,10 +3,20 @@
 The idea is to have a working version on sveltekit and react components.
 Please refer to [`svelte-react`](https://github.com/jpinho/svelte-react); for the original example made on Svelte. This repo is just a working version using svelte-kit.
 
+React Forms:
+[`React Json Schema`](https://github.com/rjsf-team/react-jsonschema-form);
 
-Please open http://localhost:3000/rbutton
-to see the basic react-button example.... 
-the rbutton is located at /src/routes/rbutton.svelte
+example at: http://localhost:3000/rform
+
+Materials UI example at: http://localhost:3000/rbutton
+
+rbutton and rform sources located at /src/routes
+
+
+Basic project scaffold from svelte-kit:
+
+powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
+
 
 from svelte-kit:
 
