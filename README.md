@@ -1,20 +1,13 @@
-# create-svelte
+# This is a fork from create-svelte and a working example from react-svelte
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
+The idea is to have a working version on sveltekit and react components.
+Please refer to [`svelte-react`](https://github.com/jpinho/svelte-react); for the original example made on Svelte. This repo is just a working version using svelte-kit.
 
-## Creating a project
 
-If you're seeing this, you've probably already done this step. Congrats!
+from svelte-kit:
 
-```bash
-# create a new project in the current directory
-npm init svelte@next
+powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
 
-# create a new project in my-app
-npm init svelte@next my-app
-```
-
-> Note: the `@next` is temporary
 
 ## Developing
 
