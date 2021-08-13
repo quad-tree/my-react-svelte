@@ -4,6 +4,10 @@ The idea is to have a working version on sveltekit and react components.
 Please refer to [`svelte-react`](https://github.com/jpinho/svelte-react); for the original example made on Svelte. This repo is just a working version using svelte-kit.
 
 
+Please open http://localhost:3000/rbutton
+to see the basic react-button example.... 
+the rbutton is located at /src/routes/rbutton.svelte
+
 from svelte-kit:
 
 powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
