@@ -1,7 +1,7 @@
 # This is a fork from create-svelte and a working example from react-svelte
 
 The idea is to have a working version on sveltekit and react components.
-Please refer to [`svelte-react`](https://github.com/jpinho/svelte-react); for the original example made on Svelte. This repo is just a working version usinf svelte-kit.
+Please refer to [`svelte-react`](https://github.com/jpinho/svelte-react); for the original example made on Svelte. This repo is just a working version using svelte-kit.
 
 
 from svelte-kit:
